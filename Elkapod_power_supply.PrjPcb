@@ -84,7 +84,7 @@ GenerateClassCluster=0
 DocumentUniqueId=ZXKGVDXH
 
 [Document3]
-DocumentPath=Servo_DC_converter.SchDoc
+DocumentPath=Servos_DC_converter.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -101,7 +101,7 @@ GenerateClassCluster=0
 DocumentUniqueId=KBEVQXIT
 
 [Document4]
-DocumentPath=Servo_control_section.SchDoc
+DocumentPath=Servo_control_module.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -167,6 +167,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YHDPGSPA
+
+[Document8]
+DocumentPath=Servos_controller.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VSDDAUAP
 
 [Configuration1]
 Name=Sources
