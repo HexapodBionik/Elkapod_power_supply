@@ -237,7 +237,7 @@ GenerateClassCluster=0
 DocumentUniqueId=MANDEDWF
 
 [Document12]
-DocumentPath=Elkapod_power_supply.Annotation
+DocumentPath=Elkapod_power_supply_converter_module.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
