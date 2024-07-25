@@ -50,7 +50,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=Elkapod_power_supply.SchDoc
+DocumentPath=Elkapod_power_supply_conveter_module.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -101,23 +101,6 @@ GenerateClassCluster=0
 DocumentUniqueId=KBEVQXIT
 
 [Document4]
-DocumentPath=Servo_control_module.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=3
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=TSLNSLEH
-
-[Document5]
 DocumentPath=StandBy_converter.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NDHBBLGR
 
-[Document6]
+[Document5]
 DocumentPath=Power_sources_selector.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,41 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TSIFYMEV
 
-[Document7]
-DocumentPath=Logic_controller.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=6
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YHDPGSPA
-
-[Document8]
-DocumentPath=Servos_controller.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=7
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=VSDDAUAP
-
-[Document9]
+[Document6]
 DocumentPath=Current_measurement_circuit.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,24 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GTYHPZXI
 
-[Document10]
-DocumentPath=Controllable_voltage_outputs.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=9
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ZJOOJECH
-
-[Document11]
+[Document7]
 DocumentPath=Elkapod_power_supply_PCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MANDEDWF
 
-[Document12]
+[Document8]
 DocumentPath=Elkapod_power_supply_converter_module.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
