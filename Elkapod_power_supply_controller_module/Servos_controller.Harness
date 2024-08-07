@@ -1,2 +1,3 @@
 EN_SERVOS=Servo1_EN,Servo2_EN,Servo3_EN,Servo4_EN,Servo5_EN,Servo6_EN
 I_SERVOS=I_Servo1,I_Servo2,I_Servo3,I_Servo4,I_Servo5,I_Servo6
+SERVOS_PWM=Servo1_PWM,Servo2_PWM,Servo3_PWM,Servo4_PWM,Servo5_PWM,Servo6_PWM
