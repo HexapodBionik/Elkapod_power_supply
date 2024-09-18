@@ -253,6 +253,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CFQIVBAA
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Elkapod_power_supply_controller_module\Design Rule Check - Elkapod_power_supply_controller_module_PCB.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
