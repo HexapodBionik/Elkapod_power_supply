@@ -3,6 +3,9 @@ History/
 *.~*
 __Previews/
 *.SchDocPreview
+*.txt
+*.html
 Project Logs for Elkapod_power_supply_converter_module/
 Project Logs for Elkapod_power_supply_controller_module/
 Project Outputs for Elkapod_power_supply_converter_module/
+Project Outputs for Elkapod_power_supply_controller_module/
